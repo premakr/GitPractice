@@ -6,6 +6,7 @@ public class Demo1 {
 		System.out.println("Srinidhi");
 		System.out.println("I am from Banglore");
 		System.out.println("I am from Karnataka");
+		System.out.println("I am from India");
 
 	}
 
